@@ -97,15 +97,15 @@ Contains product information including:
 
 Coffee-Sales-Dashboard-Excel
 
-├── Dashboard Screenshots
+├──Screenshots
 
 │ ├── dashboard.png
 
-│ ├── sales_trend.png
+│ ├── orders.png
 
-│ ├── top_customers.png
+│ ├── customers.png
 
-│ └── country_sales.png
+│ └── sales.png
 
 │
 
