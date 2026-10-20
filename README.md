@@ -91,9 +91,6 @@ Contains product information including:
 ## Dashboard Preview
 
 ### Main Dashboard
-
-(Add your dashboard screenshot here)
-
 ---
 
 ## Repository Structure
