@@ -105,7 +105,7 @@ Coffee-Sales-Dashboard-Excel
 
 │ ├── customers.png
 
-│ └── sales.png
+│ └── products.png
 
 │
 
